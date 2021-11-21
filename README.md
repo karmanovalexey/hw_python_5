@@ -10,3 +10,7 @@ Python Homeworks for 5th year of study
 
 ![classes_inherit](res/classes_inher.png "Выполненное задание Классы и наследование и условие")
 ![magic_file](res/magic_file.png "Выполненное задание Файл с Магическими методами")
+![descr_commision](res/descr_commision.png "Выполненное задание Дескриптор с комиссией")
+
+
+## Homework 3
